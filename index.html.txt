@@ -1,5 +1,8 @@
 <html>
 	<body>
-	<h1>Hello Word</h1>
+modifier
+<h1>Hello Word</h1>
+<img src="img/filigrane.png" alt="" />
+visite moi <a href="http://primeface.github.io">ICI</a>
 	</body>
 </html>
